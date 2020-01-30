@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+ <meta charset="UTF-8">
+        <html lang="fr">
+          <link rel="stylesheet" href="style.css" />
+
+<!-- Icone -->
+          <head>
+         <link rel="icon" href="Avion.jpg"/>
+         <title>Mon blog voyage</title>
+
+    </head>
+
+        <body>
+
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Dosis&display=swap" rel="stylesheet">
+
+<!-- Bannière -->
+<img src="header.png" alt="Tokyo">
+
+<!-- Barre de navigation -->  
+
+
+<ul id="nav">
+        <li><a href="1">Accueil</a></li>
+        <li><a href="2">Mes articles</a></li>
+        <li><a href="3">À propos</a></li>
+        <li><a href="4">Contact</a></li>
+</ul>
+      
+
+<div class=main>
+
+        <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+
+                
+         <h1>CHOISISSEZ VOTRE DESTINATION</h1>
+          
+         <p><h3>Voyagez avec moi au travers de ce blog et découvrez les destinations idéales pour partir en vacances et pour vous évader !</h3></p>
+   
+         
+<!-- Photos -->        
+<div class="tableau de bord">
+
+        <div class="wrapper">
+
+        <div class="container">
+                <img src="3.png" alt="Paris" style="width:100%;">
+        </div>
+
+        <div class="container">
+                 <img src="6.png" alt="New York" style="width:100%;">
+                 
+        </div>
+ 
+        <div class="container">
+                  <img src="2.png" alt="Tokyo" style="width:100%;">
+                  
+        </div>
+
+        <div class="container">
+                 <img src="1.png" alt="Toronto" style="width:100%;">
+                
+        </div>
+
+         <div class="container">
+                    <img src="5.png" alt="Bresil" style="width:100%;">
+                   
+         </div>
+         
+        <div class="container">
+                   <img src="4.png" alt="Sydney" style="width:100%;">
+                  
+        </div>
+
+        </div>
+                                
+</div>
+
+<!-- Footer -->
+<footer>
+
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+                <!-- Add font awesome icons -->
+                <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-youtube"></a>
+
+        <div class="pied">
+                <div style="float:center;">
+                        <form>
+                            <h4>S'inscrire à la newsletter</h4>
+                            e-mail:<br>
+                            <input type="text" name="email" value=""><br><br>
+                            <input type="submit" value="Valider">
+                        </form>
+                </div>
+    
+        </div>
+</footer>
